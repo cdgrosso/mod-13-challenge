@@ -30,7 +30,7 @@ To run the application locally, follow these steps:
 
 Clone the repository:
 
-git clone 
+git clone https://github.com/cdgrosso/mod-13-challenge.git
 
 Install dependencies:
 
