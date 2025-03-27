@@ -1,6 +1,5 @@
-# mod-13-challenge
 
-# Candidate Search Application
+## Candidate Search Application
 
 # Description
 
