@@ -69,6 +69,10 @@ Local Storage
 
 CSS for styling
 
+#Screenshot
+
+![Screenshot 2025-03-27 161320](https://github.com/user-attachments/assets/8d6f03d1-6ac5-4ed7-87d0-90b856efd2f7)
+
 # License
 
 This project is licensed under the MIT License.
