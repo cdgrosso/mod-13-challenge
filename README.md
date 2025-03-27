@@ -73,5 +73,6 @@ CSS for styling
 
 This project is licensed under the MIT License.
 
-Contributors
+# Contributors
 
+https://github.com/cdgrosso
